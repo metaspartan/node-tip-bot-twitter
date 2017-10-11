@@ -4,12 +4,12 @@ twitter:
     access_token_key: ''
     access_token_secret: ''
     twittername: ''
-    twitterkeyword: 'skeinbot'
+    twitterkeyword: 'denariibot'
 log:
   file: tipbot.log
 rpc:
   host: localhost
-  port: 22555
+  port: 32339
   user: denariusrpc
   pass: pass
   prefix: ''
