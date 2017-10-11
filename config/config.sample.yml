@@ -4,7 +4,7 @@ twitter:
     access_token_key: ''
     access_token_secret: ''
     twittername: ''
-    twitterkeyword: 'denariibot'
+    twitterkeyword: 'denarii'
 log:
   file: tipbot.log
 rpc:
